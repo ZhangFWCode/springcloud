@@ -16,12 +16,10 @@ public class ConfigHandler {
     @Value("${server.port}")
     private String port;
 
-    @Value("${foo}")
-    private String foo;
 
     @GetMapping("/index")
     public String index(){
-        return this.port+"-"+this.foo;
+        return this.port;
     }
 
 }
