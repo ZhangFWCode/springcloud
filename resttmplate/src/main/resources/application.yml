@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: resttmplate
+server:
+  port: 8764
