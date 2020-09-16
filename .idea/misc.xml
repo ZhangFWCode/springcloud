@@ -11,6 +11,10 @@
         <option value="$PROJECT_DIR$/resttmplate/pom.xml" />
         <option value="$PROJECT_DIR$/consumer/pom.xml" />
         <option value="$PROJECT_DIR$/feigntest/pom.xml" />
+        <option value="$PROJECT_DIR$/nativeconfigserver/pom.xml" />
+        <option value="$PROJECT_DIR$/configclient/pom.xml" />
+        <option value="$PROJECT_DIR$/configserver2/pom.xml" />
+        <option value="$PROJECT_DIR$/configclient2/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
