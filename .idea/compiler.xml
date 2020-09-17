@@ -8,16 +8,16 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="nativeconfigserver" />
-        <module name="configclient" />
         <module name="configclient2" />
-        <module name="zipkincilent" />
+        <module name="consumer" />
         <module name="eurekaclientredis" />
         <module name="resttmplate" />
         <module name="zipkinserver" />
-        <module name="feigntest" />
         <module name="configserver2" />
+        <module name="zipkincilent" />
         <module name="eurekaserver" />
-        <module name="consumer" />
+        <module name="configclient" />
+        <module name="feigntest" />
         <module name="eurekaclient" />
       </profile>
     </annotationProcessing>
